@@ -1,0 +1,30 @@
+{
+  "name": "ts-environment",
+  "version": "0.0.1",
+  "description": "Typescript Node Environment",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevupton/ts-environment.git"
+  },
+  "keywords": [
+    "typescript",
+    "environment",
+    "env",
+    "ts"
+  ],
+  "author": "Kevin Upton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevupton/ts-environment/issues"
+  },
+  "homepage": "https://github.com/kevupton/ts-environment#readme",
+  "devDependencies": {
+    "@types/node": "9.4.6",
+    "typescript": "2.7.2",
+    "webpack": "4.0.1"
+  }
+}
